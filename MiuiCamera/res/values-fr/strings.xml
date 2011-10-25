@@ -27,10 +27,10 @@
     <string name="send_method">Envoyer à</string>
     <string name="switch_to_camera">Appareil Photo</string>
     <string name="switch_to_video">Vidéo</string>
-    <string name="anti_shake">Anti-tremblement</string>
+    <string name="anti_shake">Stabiliser</string>
     <string name="burst">Rafale</string>
     <string name="color_effect">Effets</string>
-    <string name="delay_snap">Retardateur</string>
+    <string name="delay_snap">Retarder</string>
     <string name="screen_shutter">Obturation tactile</string>
     <string name="silence">Silence</string>
     <string name="disable_silence">Désactiver le silence</string>
