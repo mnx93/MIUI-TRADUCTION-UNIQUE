@@ -26,7 +26,7 @@
     <string name="usb_mode_dont_ask">Ne plus demander</string>
     <string name="usb_mode_mount_storage_title">Partager le stockage via la connexion USB?</string>
     <string name="mount_storage">Monter</string>
-    <string name="dismount_storage">Démonter</string>
+    <string name="dismount_storage">Charger uniquement</string>
     <string name="move_data_to_sdcard_title">Déplacer les données vers la carte SD</string>
     <string name="move_data_to_sdcard_message">Vous vous apprêtez à déplacer les données vers la carte SD</string>
     <string name="user_guide_for_notification">Lorsque vous recevez une notification, faites glisser la barre de statut vers le bas</string>
